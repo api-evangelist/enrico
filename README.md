@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Enrico holiday service is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kayaposoft.com/
+Enrico holiday service is a public holidays web service offered by Kayapo, a Slovak software company founded in 2010. The service provides holiday data for various countries via a simple API, supporting integration into calendars, scheduling tools, and applications. Kayapo specializes in software development across multiple languages and offers innovative IT solutions for commercial and non-commercial use.
+
+**Areas:** Company · Holiday · API · Slovakia · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kayaposoft.com/)
+- [Documentation](https://kayaposoft.com/enrico/)
+- [Getting started](https://kayaposoft.com/enrico/json)
+- [API reference](https://kayaposoft.com/enrico/docs-v1.0/)
+- [GitHub](https://github.com/jurajmajer)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/enrico/](https://apis.io/providers/enrico/).
